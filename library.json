@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-906-infrared-temperature-sensor-module--gy-906-mlx90614esf-",
+  "title": "gy-906-infrared-temperature-sensor-module--gy-906-mlx90614esf-",
+  "keywords": "gy-906-infrared-temperature-sensor-module--gy-906-mlx90614esf-, esp32, esp8266, arduino",
+  "description": "gy-906-infrared-temperature-sensor-module--gy-906-mlx90614esf- plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-906-infrared-temperature-sensor-module--gy-906-mlx90614esf-/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-906-infrared-temperature-sensor-module--gy-906-mlx90614esf-/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
